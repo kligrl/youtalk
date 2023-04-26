@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"),
+            url("fonts/woff2/montserrat/Montserrat-Regular.woff2") format("woff2"),
+            url("fonts/woff/montserrat/Montserrat-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Montserrat Medium";
+    src: local("Montserrat Medium"),
+            url("fonts/woff2/montserrat/Montserrat-Medium.woff2") format("woff2"),
+            url("fonts/woff/montserrat/Montserrat-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Montserrat SemiBold";
+    src: local("Montserrat SemiBold"),
+            url("fonts/woff2/montserrat/Montserrat-SemiBold.woff2") format("woff2"),
+            url("fonts/woff/montserrat/Montserrat-SemiBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Montserrat Bold";
+    src: local("Montserrat Bold"),
+            url("fonts/woff2/montserrat/Montserrat-Bold.woff2") format("woff2"),
+            url("fonts/woff/montserrat/Montserrat-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Montserrat Italic";
+    src: local("Montserrat Italic"),
+            url("fonts/woff2/montserrat/Montserrat-Italic.woff2") format("woff2"),
+            url("fonts/woff/montserrat/Montserrat-Italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: local("Open Sans"),
+            url("fonts/woff2/OpenSans-Regular.woff2") format("woff2"),
+            url("fonts/woff/OpenSans-Regular.woff") format("woff");
+}
